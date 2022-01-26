@@ -3,7 +3,7 @@ html {
     color: #c1c1c1;
     
     display: flex;
-    font: 18px "SFMono", "Courier New", monospace;
+    font: larger "SFMono", "Courier New", monospace;
     height: 100%;
     justify-content: center;
     margin: 0;
